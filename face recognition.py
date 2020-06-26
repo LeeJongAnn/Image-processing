@@ -1,3 +1,10 @@
+import cv2
+import dlib
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.patches as patches
+import matplotlib.patheffects as path_effects
+
 def face_recognition(img): ## 얼굴 사각형을 인식하는 함수 업뎃
   dets = detector(img,1) 
   
@@ -15,6 +22,14 @@ def face_recognition(img): ## 얼굴 사각형을 인식하는 함수 업뎃
      shapes.append(shape)
       
      return shapes,rects,shapes_np 
+  
+  def encode_faces(img,shape): 
+    face_descriptors = []
+    face_descripotr = ? 
+    
+    face_descriptors.append(face_descriptor)
+    
+    return np.array(face_descriptor)
     
       
     
