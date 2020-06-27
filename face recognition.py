@@ -32,14 +32,18 @@ def face_recognition(img): ## 얼굴 사각형을 인식하는 함수 업뎃
     return np.array(face_descriptor)
     
       
+img_path = { 
+    'neo' : 'img/neo.jpg',
+    'trinity' : 'img/trinity.jpg',
+    'morpheous' : 'img/morpheous.jpg',
     
-  
-  
-  
-  
-  
+}
 
-
-def face_encoding: 
+descs = { 
+    'neo ': None ,
+    'trinity' : None,
+    'morpheous' : None,
+    
+}
 
 
