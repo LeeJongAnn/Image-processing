@@ -30,9 +30,9 @@ def face_recognition(img): ## 얼굴 사각형을 인식하는 함수 업뎃
   
   def encode_faces(img,shape): 
     face_descriptors = []
-    face_descripotr = ? 
-    
+    face_descriptor = facerec.compute_face_descriptor(img,shape)
     face_descriptors.append(face_descriptor)
+    
     
     return np.array(face_descriptor)
     
