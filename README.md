@@ -24,7 +24,7 @@ https://github.com/kairess/simple_face_recognition/raw/master/models/dlib_face_r
 
 
 
-# Dependencies
+# Dependencies (없으면 지렁이도 실행 못시킴)
 
 1.opencv (cv2) 
 
@@ -35,3 +35,5 @@ https://github.com/kairess/simple_face_recognition/raw/master/models/dlib_face_r
 4.numpy 
 
 5.matplotlib
+
+6.위에 링크 걸려 있는 모델 파일
