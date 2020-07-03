@@ -8,6 +8,9 @@
 
 
 ![나은1](https://user-images.githubusercontent.com/50771738/86469069-a4ae5a80-bd73-11ea-8cab-29783a2b1c66.png)
+
+![GUI](https://user-images.githubusercontent.com/50771738/86469468-6cf3e280-bd74-11ea-9379-0f8c57ab78c3.png)
+
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ원본ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
 ![matrix5](https://user-images.githubusercontent.com/50771738/86469318-18506780-bd74-11ea-8853-d40235867d62.png)
