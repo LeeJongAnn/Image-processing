@@ -1,4 +1,3 @@
-# Image-processing
 # Even-Earthworm-can-understand-Image-processing
 # 지렁이도 이해하는 이미지 프로세싱
 
