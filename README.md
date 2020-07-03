@@ -1,6 +1,7 @@
 # Even-Earthworm-can-understand-Image-processing
 # 지렁이도 이해하는 이미지 프로세싱
 
+
 원본은 매트릭스의 네오,스미스,모피어스,트리니티를 인식하는 코드입니다. 
 
 손나은과 엠마 왓슨을 인식하도록 바꿔봤습니다. 
@@ -22,3 +23,11 @@ https://github.com/kairess/simple_face_recognition/raw/master/models/dlib_face_r
 ![matrix5](https://user-images.githubusercontent.com/50771738/86469318-18506780-bd74-11ea-8853-d40235867d62.png)
 
 
+
+# Dependencies
+
+1.opencv (cv2) 
+2.python 3+
+3.dlib
+4.numpy 
+5.matplotlib
