@@ -51,7 +51,12 @@ descs = {
     
 }
 
-for name,img_path in img_path.times(): 
-  
+for name, img_path in img_paths.items():
+    img_bgr = cv2.imread(img_path)
+    img_rgb = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2RGB)
 
+    _, img_shapes, _ = find_faces(img_rgb)
+    descs[name] = encode_faces(img_rgb, img_shapes)[0]
 
+np.save('img/descs.npy', descs)
+print(descs)
