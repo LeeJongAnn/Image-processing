@@ -27,7 +27,11 @@ https://github.com/kairess/simple_face_recognition/raw/master/models/dlib_face_r
 # Dependencies
 
 1.opencv (cv2) 
+
 2.python 3+
+
 3.dlib
+
 4.numpy 
+
 5.matplotlib
