@@ -7,7 +7,7 @@
 그리고 GUI를 조금 추가했습니다.
 
 아래 링크 2개 다운 받아서 모델 폴더에 넣어주세요 
-안넣으면 
+용량이 커서 안올라가요 , 하나는 들어있음
 
 https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
 https://github.com/kairess/simple_face_recognition/raw/master/models/dlib_face_recognition_resnet_model_v1.dat
