@@ -18,6 +18,11 @@ https://github.com/kairess/simple_face_recognition/raw/master/models/dlib_face_r
 
 ![GUI](https://user-images.githubusercontent.com/50771738/86469468-6cf3e280-bd74-11ea-9379-0f8c57ab78c3.png)
 
+![엠마1](https://user-images.githubusercontent.com/50771738/86523634-1688c000-beaa-11ea-9b0f-e80b80d2631e.png)
+
+![엠마2](https://user-images.githubusercontent.com/50771738/86523636-1983b080-beaa-11ea-9bb6-63e33234b425.png)
+
+
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ원본ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
 ![matrix5](https://user-images.githubusercontent.com/50771738/86469318-18506780-bd74-11ea-8853-d40235867d62.png)
