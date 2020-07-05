@@ -8,7 +8,7 @@
 
 그리고 GUI를 조금 추가했습니다.
 
-아래 링크 2개 다운 받아서 모델 폴더에 넣어주세요 
+아래 링크 2개 다운 받아서 models 폴더에 넣어주세요 
 용량이 커서 안올라가요 , 하나는 들어있음
 
 https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
